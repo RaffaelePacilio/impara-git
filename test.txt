@@ -1,4 +1,5 @@
 commit 1 
 commit 2
-commit -- 3,2 --> fixami inserendo "3" 
+##commit -- 3,2 --> fixami inserendo "3" FIXATA !!##  
+commit 3
 commit 4 (vado avanti su release)
